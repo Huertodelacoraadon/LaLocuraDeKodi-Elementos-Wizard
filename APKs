@@ -1,0 +1,41 @@
+name="Clones de Kodi"
+
+section="yes"
+
+url="http://academy.kodileia.xyz/Academy/wizard/txt/forks.txt"
+
+icon="http://academy.kodileia.xyz/Academy/wizard/imagenes/spmc17.png"
+
+fanart="http://academy.kodileia.xyz/Academy/wizard/imagenes/fanart.jpg"
+
+adult="no"
+
+description="Apks Iguales que Kodi"
+
+name="Ace Stream Media (nueva 3.1.24.2)"
+
+section="no"
+
+url="http://academy.kodileia.xyz/Academy/wizard/apks/AceStream-3.1.24.2.apk"
+
+icon="http://academy.kodileia.xyz/Academy/wizard/imagenes/apk.png"
+
+fanart="http://academy.kodileia.xyz/Academy/wizard/imagenes/fanart.jpg"
+
+adult="no"
+
+description="Ace Stream Media, necesario para ver deportes"
+
+name="VPN"
+
+section="yes"
+
+url="https://raw.githubusercontent.com/hectorbolu/SoyTheJoker.Wizard/master/VPN"
+
+icon="https://spearheadnet.net/wp-content/uploads/2018/07/VPN-Icon.png"
+
+fanart="https://wallpapercave.com/wp/7IaMOXv.jpg"
+
+adult="No"
+
+description="VPN"
