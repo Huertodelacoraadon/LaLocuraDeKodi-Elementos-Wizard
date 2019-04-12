@@ -1,41 +1,34 @@
-name="Clones de Kodi"
-
+name="AceStream-3.1.24.2.apk"
 section="yes"
-
-url="http://academy.kodileia.xyz/Academy/wizard/txt/forks.txt"
-
-icon="http://academy.kodileia.xyz/Academy/wizard/imagenes/spmc17.png"
-
-fanart="http://academy.kodileia.xyz/Academy/wizard/imagenes/fanart.jpg"
-
+url="http://kodileia2.org/apks/AceStream-3.1.24.2.apk"
+icon="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/Aceastream.png"
+fanart="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/fondo.jpg"
 adult="no"
+description=""
 
-description="Apks Iguales que Kodi"
 
-name="Ace Stream Media (nueva 3.1.24.2)"
-
-section="no"
-
-url="http://academy.kodileia.xyz/Academy/wizard/apks/AceStream-3.1.24.2.apk"
-
-icon="http://academy.kodileia.xyz/Academy/wizard/imagenes/apk.png"
-
-fanart="http://academy.kodileia.xyz/Academy/wizard/imagenes/fanart.jpg"
-
-adult="no"
-
-description="Ace Stream Media, necesario para ver deportes"
-
-name="VPN"
-
+name="MyGica17.1"
 section="yes"
+url="http://kodileia2.org/apks/MyGica17.1.zip"
+icon="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/Mygica.png"
+fanart="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/fondo.jpg"
+adult="no"
+description=""
 
-url="https://raw.githubusercontent.com/hectorbolu/SoyTheJoker.Wizard/master/VPN"
 
-icon="https://spearheadnet.net/wp-content/uploads/2018/07/VPN-Icon.png"
+name="kodi-17.6-Krypton"
+section="yes"
+url="http://kodileia2.org/apks/Kodi%2017.6%20(A%20Partir%20de%20Android%205.1).apk"
+icon="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/Kodi.png"
+fanart="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/fondo.jpg"
+adult="no"
+description="A partir de android 5.1"
 
-fanart="https://wallpapercave.com/wp/7IaMOXv.jpg"
 
-adult="No"
-
-description="VPN"
+name="kodi-17.6-Krypton"
+section="yes"
+url="http://kodileia2.org/apks/Kodi%2017.6%20(Para%20Android%204.4.2).apk"
+icon="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/Kodi.png"
+fanart="http://kodileia2.org/.../FamilyLeia/wizard/imagenes/fondo.jpg"
+adult="no"
+description="Para Android 4.4.2"
